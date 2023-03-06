@@ -1,6 +1,6 @@
 ![Аватар]( https://github.com/markot-1/project2/blob/main/1.jpg?raw=true)
 # Marina Kotova
-
+***
 ## Contact information: 
 + **E-mail:** m.klementyeva@mail.ru
 + **Phone:** \+382 68 791 339
