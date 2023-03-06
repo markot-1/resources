@@ -1,6 +1,6 @@
 ![Аватар]( https://github.com/markot-1/project2/blob/main/1.jpg?raw=true)
 # Marina Kotova
-***
+
 ## Contact information: 
 + **E-mail:** m.klementyeva@mail.ru
 + **Phone:** \+382 68 791 339
@@ -21,7 +21,7 @@ I have 4 years of experience in implementing various projects in international t
 + Git/GitHub
 ***
 ## Code examples
-Solution for “Adding values of arrays in a shifted way” kata from CodeWars: 
+Solution for “Adding values of arrays in a shifted way” kata from [CodeWars](https://www.codewars.com/kata/57c7231c484cf9e6ac000090): 
 ```
 function addingShifted(arrayOfArrays, shift) {
     let currentArr = [...arrayOfArrays[0]];
@@ -59,8 +59,8 @@ function addingShifted(arrayOfArrays, shift) {
 ***
 ## Languages
 + Russian – native
-+ English – Upper-intermediate 
-+ German – A2
++ English – upper-intermediate (B2)
++ German – elementary (A2)
 
 
 
